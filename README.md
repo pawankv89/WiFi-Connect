@@ -5,10 +5,10 @@
 
 Added Some screens here.
 
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_2.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_3.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_4.png)
+![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_1.PNG)
+![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_2.PNG)
+![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_3.PNG)
+![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_4.PNG)
 
 ## Usage
 
