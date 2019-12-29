@@ -1,21 +1,10 @@
-# WiFi-Connect
-
-
-## WiFi-Connect with WiFi Connect with send wifi name and password.
-
-Added Some screens here.
-
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_1.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_2.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_3.png)
-![](https://github.com/pawankv89/WiFi-Connect/blob/master/images/screen_4.png)
-
-## Usage
-
-#### Controller
-
-``` swift 
-
+//
+//  ViewController.swift
+//  WiFi Scanner
+//
+//  Created by Pawan kumar on 29/12/19.
+//  Copyright © 2019 Pawan Kumar. All rights reserved.
+//
 
 import UIKit
 import NetworkExtension
@@ -23,7 +12,7 @@ import NetworkExtension
 class ViewController: UIViewController {
 
      private let SSID = "iBall-Baton"
-     private let passphrase = "P@1234567890"
+     private let passphrase = "Pks@1989"
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -63,16 +52,4 @@ class ViewController: UIViewController {
         present(alert, animated: true, completion: nil)
     }
 }
-
-
-
-```
-
-## License
-
-This code is distributed under the terms and conditions of the [MIT license](LICENSE).
-
-## Change-log
-
-A brief summary of each this release can be found in the [CHANGELOG](CHANGELOG.mdown). 
 
