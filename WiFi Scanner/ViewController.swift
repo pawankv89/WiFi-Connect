@@ -27,9 +27,16 @@ class ViewController: UIViewController {
             
             if let error = error {
                 self.showError(error: error)
-            }
-            else {
+                if error.localizedDescription == "already associated."
+                               {
+                                   print("Connected")
+                               }
+                               else{
+                                   print("No Connected")
+                               }
+            } else {
                 self.showSuccess()
+                 print("Connected")
             }
         }
     }
